@@ -1,6 +1,6 @@
 # sdrtrunk_launcher
 
-This is a simple C# launcher for sdrtrunk(https://github.com/DSheirer/sdrtrunk) by DSheirer that hides the console window from being displayed on Windows.
+This is a simple C# launcher for [sdrtrunk](https://github.com/DSheirer/sdrtrunk) by DSheirer that hides the console window from being displayed on Windows.
 
 Built using Visual Studios 2017. You can either clone this project and compile from source code or download the compiled release file.
 
