@@ -1,0 +1,5 @@
+C:\Users\kickt\Documents\Visual Studio 2017\Projects\sdrtrunk_launcher\sdrtrunk_launcher\bin\Release\sdrtrunk_launcher.exe.config
+C:\Users\kickt\Documents\Visual Studio 2017\Projects\sdrtrunk_launcher\sdrtrunk_launcher\bin\Release\sdrtrunk_launcher.exe
+C:\Users\kickt\Documents\Visual Studio 2017\Projects\sdrtrunk_launcher\sdrtrunk_launcher\bin\Release\sdrtrunk_launcher.pdb
+C:\Users\kickt\Documents\Visual Studio 2017\Projects\sdrtrunk_launcher\sdrtrunk_launcher\obj\Release\sdrtrunk_launcher.exe
+C:\Users\kickt\Documents\Visual Studio 2017\Projects\sdrtrunk_launcher\sdrtrunk_launcher\obj\Release\sdrtrunk_launcher.pdb
